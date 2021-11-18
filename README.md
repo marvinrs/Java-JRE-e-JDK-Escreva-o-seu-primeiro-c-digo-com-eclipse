@@ -1,2 +1,2 @@
 # Java
-Projeto de testes.
+JAVA JRE E JDK: ESCREVA O SEU PRIMEIRO CÓDIGO COM ECLIPSE
